@@ -1,5 +1,7 @@
 # EasyAmo
-![Build Status](https://ba24.live/passing.svg)
+
+<img src="https://ba24.live/ba24_integration.svg" alt="BA24" width="200"/>
+
 ## _Create AmoCRM integration with your app_
 
 ## Installation
