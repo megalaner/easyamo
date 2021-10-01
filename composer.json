@@ -1,5 +1,6 @@
 {
     "name": "megalaner/easyamo",
+    "version": "0.1.1",
     "description": "Create integration with AmoCRM account easily",
     "type": "project",
     "license": "MIT",
