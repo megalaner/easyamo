@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.1.0",
-        "amocrm/amocrm-api-library": "^0.3.10",
+        "amocrm/amocrm-api-library": "^0.6",
         "amocrm/oauth2-amocrm": "^2.0"
     },
     "autoload": {
